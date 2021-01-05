@@ -1,6 +1,6 @@
 <!-- #region -->
 ### Introduction
-In this analysis I use data from **Reliable Prognosis [website](https://rp5.ru/).** to look at the weather patterns in major towns in Kenya.
+In this analysis I use data from **Reliable Prognosis [website](https://rp5.ru/)** to look at the weather patterns in major towns in Kenya.
 The selected cities are distributed across Kenya as shown below.<br>
 <img align="center" width="432px" height="360px" src=img/selected_cities.png>
 
