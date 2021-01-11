@@ -27,6 +27,12 @@ Interestingly Nairobi had the lowest amount of rainfall despite having similar t
 Eldoret on the other hand has the highest number of rainy days per month.
 <img align="center" src=img/monthly_city_rainfall_freq.png>
 
+#### c) Series Forecasting
+We then zoom in on the temperature data for Nairobi. What would the weather look like based on the historical data?
+We can use Facebook's Prophet to make prediction on the data with the following results
+<img align="center" src=img/nrb_predicted_temp.png>
+- Generally, Nairobi temperatures are 
+
 <!-- #endregion -->
 
 ```python
